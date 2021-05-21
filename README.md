@@ -24,7 +24,7 @@
 ## Полезные ссылки
 [Документация CraftTweaker 1.12.2](https://docs.blamejared.com/1.12/ru/) | [Документация CraftTweaker 1.7.10](http://minetweaker3.powerofbytes.com/wiki/Main_Page) | [Тема на Rubukkit](http://rubukkit.org/threads/ispravlenija-receptov-v-modax-minetweaker-crafttweaker.163629/)
 
-[Мой ВКонтакте](https://vk.com/hibanka) | [Мой Telegram](https://t.me/Hibanka) | Мой Discord: **FIRE#1771**
+[Мой ВКонтакте](https://vk.com/id335318686) | [Мой Telegram](https://t.me/BlackFanderra) | Мой Discord: **BlackFanderra#6796**
 
 Появился вопрос касательно скриптов? Напишите мне.
 
