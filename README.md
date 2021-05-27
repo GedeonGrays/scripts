@@ -18,15 +18,12 @@
 ### 2. ModTweaker (+ MTLib на 1.12.2)
 Для многих скриптов потребуется аддон [ModTweaker](https://www.curseforge.com/minecraft/mc-mods/modtweaker). Учтите, что на 1.12.2 он требует библиотеку [MTLib](https://www.curseforge.com/minecraft/mc-mods/mtlib).
 
-***
-
 ## Полезные ссылки
 [Документация CraftTweaker 1.12.2](https://docs.blamejared.com/1.12/ru/) | [Документация CraftTweaker 1.7.10](http://minetweaker3.powerofbytes.com/wiki/Main_Page) | [Тема на Rubukkit](http://rubukkit.org/threads/ispravlenija-receptov-v-modax-minetweaker-crafttweaker.163629/)
 
 ***
+## Контакты
+[ВКонтакте](https://vk.com/id335318686) | [Telegram](https://t.me/BlackFanderra) | Discord: **BlackFanderra#6796**
 
 ## Заказать кастомные скрипты
-Не умеете создавать скрипты, нет времени их писать или разбираться с документацией? Вы можете **заказать написание скриптов** у меня. Обратитесь по контактам ниже. Цена зависит от задачи, но не ниже 50 руб.
-
-## Мои контакты
-[ВКонтакте](https://vk.com/id335318686) | [Telegram](https://t.me/BlackFanderra) | Discord: **BlackFanderra#6796**
+Не умеете создавать скрипты, нет времени их писать или разбираться с документацией? Вы можете **заказать написание скриптов** у меня. Обратитесь по контактам выше. Цена зависит от задачи, но не ниже 50 руб.
