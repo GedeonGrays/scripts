@@ -9,4 +9,3 @@
  # Удаляем рецепты рамок в TConstruct
   mods.tconstruct.Casting.removeBasinRecipe(<ThermalExpansion:Frame:11>);
   
- # Это также можно выключить в конфиге \cofh\thermalexpansion\common.cfg, для этого выключаем всё в параметре Tesseract {...}

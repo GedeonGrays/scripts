@@ -1,5 +1,5 @@
 # Добавляем рецепт: крашенные тритановые плиты
- import minetweaker.item.IItemStack; # Импортирование НЕОБХОДИМО ПОМЕСТИТЬ в самый верх скрипта
+ import minetweaker.item.IItemStack; 
 
  var DecoBlock = [
   <mo:decorative.tritanium_plate_colored>,

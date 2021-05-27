@@ -12,8 +12,3 @@
   recipes.remove(<ThermalFoundation:armor.legsLead>);
   recipes.remove(<ThermalFoundation:armor.bootsLead>);
 
- # TODO
- # Вариант 3: добавляем рецепт брони из GalaxySpace через броню из Thermal
-
- # TODO
- # Вариант 4: добавляем рецепт брони из Thermal через броню из GalaxySpace

@@ -6,7 +6,7 @@
   [<minecraft:slime_ball>, <minecraft:slime_ball>, <minecraft:slime_ball>]]);
 
 # Улучшаем лазерный бур
- # Удаляем руды из Biomes O Plenty
+ # Удаляем руды из Biomes'O'Plenty
   mods.mfr.MiningLaser.removePreferredOre(1, <BiomesOPlenty:gemOre:14>);
   mods.mfr.MiningLaser.removeOre(<BiomesOPlenty:gemOre:14>);
   mods.mfr.MiningLaser.removePreferredOre(11, <BiomesOPlenty:gemOre:12>);
